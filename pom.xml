@@ -14,7 +14,7 @@
 		<version>3.3.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.exploregurbanicommon</groupId>
+	<groupId>com.exploregurbani</groupId>
 	<artifactId>common</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>common</name>

@@ -1,4 +1,4 @@
-package com.exploregurbanicommon.common.enums;
+package com.exploregurbani.common.enums;
 
 public enum NotificationType {
     SMS,
