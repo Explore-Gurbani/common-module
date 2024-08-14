@@ -1,6 +1,6 @@
-package com.exploregurbani.common.dto;
+package com.exploregurbanicommon.common.dto;
 
-import com.exploregurbani.common.enums.NotificationType;
+import com.exploregurbanicommon.common.enums.NotificationType;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
